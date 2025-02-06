@@ -22,3 +22,4 @@
 </div><br/>
 ✨ Obrigado por visitar meu perfil! Estou sempre em busca de novos aprendizados e desafios. Sinta-se à vontade para explorar meus projetos, contribuir ou entrar em contato. Vamos construir algo incrível juntos! 🚀
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
